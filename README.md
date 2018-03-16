@@ -1,3 +1,8 @@
+# 个人补充
+http://blog.csdn.net/wzgiceman/article/details/52083391
+
+
+
 #捋一捋Android的转场动画
  
 ##背景
